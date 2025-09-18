@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 <p align="center">
-  <img src="https://imgflip.com/a6fhya.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
+  <img src="https://i.imgflip.com/a6fhya.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
 </p>
 
 
